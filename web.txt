@@ -6,6 +6,12 @@
 <body>
 test
 
+<TABLE BORDER>
+<TR><TH>2<TH>2</TR>
+<TR><TD>4<TD>4</TR>
+<TR><TD>4<TD>4</TR>
+</TABLE>
+
 
 </body>
 </html>
