@@ -1,17 +1,18 @@
 <html>
 <head>
 
+<link rel="stylesheet" hred="styles.css">
+
 </head>
 
 <body>
-test
 
-<TABLE BORDER>
-<TR><TH>2<TH>2</TR>
-<TR><TD>4<TD>4</TR>
-<TR><TD>4<TD>4</TR>
-</TABLE>
+<table>
+<tr>
 
+<th class+"rotate"><div><span>  header
+1</span></div></th>
+<th class="rotate"></div></th>
 
 </body>
 </html>
